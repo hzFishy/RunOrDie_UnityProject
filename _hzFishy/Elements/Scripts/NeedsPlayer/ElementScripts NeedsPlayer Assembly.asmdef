@@ -1,0 +1,16 @@
+{
+    "name": "ElementScriptsNeedsPlayerAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b0980f39640a06b4682431c8b409c673"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

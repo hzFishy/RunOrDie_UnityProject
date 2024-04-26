@@ -1,0 +1,16 @@
+{
+    "name": "PlayerInterfacesAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:796848b0e577dc24d9816d301a3899c7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

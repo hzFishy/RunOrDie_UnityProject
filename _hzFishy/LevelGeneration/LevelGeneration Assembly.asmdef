@@ -1,0 +1,21 @@
+{
+    "name": "LevelGenerationAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:776d03a35f1b52c4a9aed9f56d7b4229",
+        "GUID:f88fb04354076c646a4107a491394033",
+        "GUID:b0980f39640a06b4682431c8b409c673",
+        "GUID:10ebc479cc081044d87faf0f7bd87988",
+        "GUID:41f35a5fa63cd4747a8a9b44bba56659",
+        "GUID:796848b0e577dc24d9816d301a3899c7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

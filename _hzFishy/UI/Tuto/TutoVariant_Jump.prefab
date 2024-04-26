@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &332776118288648982
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1037753406137090598, guid: 7a971fb892abd44409507d31626ea543, type: 3}
+      propertyPath: m_text
+      value: '<color=orange>Tap</color> <color=yellow>SPACE</color> to jump.
+
+        The
+        goal is to <color=red>avoid</color> the red block.'
+      objectReference: {fileID: 0}
+    - target: {fileID: 1550893486497318817, guid: 7a971fb892abd44409507d31626ea543, type: 3}
+      propertyPath: m_Name
+      value: TutoVariant_Jump
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926500452254524011, guid: 7a971fb892abd44409507d31626ea543, type: 3}
+      propertyPath: m_text
+      value: jump
+      objectReference: {fileID: 0}
+    - target: {fileID: 4200599295664275658, guid: 7a971fb892abd44409507d31626ea543, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4200599295664275658, guid: 7a971fb892abd44409507d31626ea543, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4200599295664275658, guid: 7a971fb892abd44409507d31626ea543, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4200599295664275658, guid: 7a971fb892abd44409507d31626ea543, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4200599295664275658, guid: 7a971fb892abd44409507d31626ea543, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4200599295664275658, guid: 7a971fb892abd44409507d31626ea543, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4200599295664275658, guid: 7a971fb892abd44409507d31626ea543, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4200599295664275658, guid: 7a971fb892abd44409507d31626ea543, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4200599295664275658, guid: 7a971fb892abd44409507d31626ea543, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4200599295664275658, guid: 7a971fb892abd44409507d31626ea543, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4200599295664275658, guid: 7a971fb892abd44409507d31626ea543, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4544539066923976646, guid: 7a971fb892abd44409507d31626ea543, type: 3}
+      propertyPath: m_RenderMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5154951429874025675, guid: 7a971fb892abd44409507d31626ea543, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: f79fb31b06a385040b2cdca721acd941, type: 3}
+    - target: {fileID: 5154951429874025675, guid: 7a971fb892abd44409507d31626ea543, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5154951429874025675, guid: 7a971fb892abd44409507d31626ea543, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5154951429874025675, guid: 7a971fb892abd44409507d31626ea543, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5957193638512877054, guid: 7a971fb892abd44409507d31626ea543, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 152.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 8461908571807297252, guid: 7a971fb892abd44409507d31626ea543, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 650
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7a971fb892abd44409507d31626ea543, type: 3}

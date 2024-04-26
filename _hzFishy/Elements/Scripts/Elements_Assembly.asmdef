@@ -1,0 +1,21 @@
+{
+    "name": "Elements_Assembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:10ebc479cc081044d87faf0f7bd87988",
+        "GUID:41f35a5fa63cd4747a8a9b44bba56659",
+        "GUID:796848b0e577dc24d9816d301a3899c7",
+        "GUID:b893612918b55c64ebbbeb3d9b2b87f1",
+        "GUID:8504b54d4d4ba7040a36c28d4232945e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

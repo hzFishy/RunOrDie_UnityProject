@@ -1,0 +1,27 @@
+{
+    "name": "Assembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:fd1e2b248336e4c41a04b89cc0e7e07e",
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:9a79226905aad644689e1f2dbaab541b",
+        "GUID:796848b0e577dc24d9816d301a3899c7",
+        "GUID:b893612918b55c64ebbbeb3d9b2b87f1",
+        "GUID:ad7fdcb85373bcf4d9b3f5a57804f6f4",
+        "GUID:8504b54d4d4ba7040a36c28d4232945e",
+        "GUID:10ebc479cc081044d87faf0f7bd87988",
+        "GUID:41f35a5fa63cd4747a8a9b44bba56659",
+        "GUID:776d03a35f1b52c4a9aed9f56d7b4229"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Assembly_UI_Main",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b0980f39640a06b4682431c8b409c673",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:796848b0e577dc24d9816d301a3899c7",
+        "GUID:10ebc479cc081044d87faf0f7bd87988",
+        "GUID:41f35a5fa63cd4747a8a9b44bba56659"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

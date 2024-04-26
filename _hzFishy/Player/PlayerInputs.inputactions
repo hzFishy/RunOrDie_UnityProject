@@ -1,0 +1,174 @@
+{
+    "name": "PlayerInputs",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "64845593-c708-485f-b431-584752df9312",
+            "actions": [
+                {
+                    "name": "SpaceAction_Tap",
+                    "type": "Button",
+                    "id": "3e2155d1-5b63-4aa0-a23c-e1e1e52488fd",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "SpaceAction_DoubleTap",
+                    "type": "Button",
+                    "id": "a4eecf59-f725-408a-80c8-08610761baf4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "SpaceAction_Hold",
+                    "type": "Button",
+                    "id": "ec8f8a2c-a07a-4ed3-93a6-ed07ad3f0a82",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Debug_RestartScene",
+                    "type": "Button",
+                    "id": "8f9d11d3-aee0-4f03-8572-54fe80584be2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Extra_Pause",
+                    "type": "Button",
+                    "id": "28a691e7-f70e-45d5-9b27-b75e0001691b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Debug_ToggleSong",
+                    "type": "Button",
+                    "id": "caa3a185-ef9a-414a-89ea-57dd66323c1f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Debug_SwitchSong",
+                    "type": "Button",
+                    "id": "9d7db2b6-8d9f-4510-819d-fa1c08ef1b32",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Debug_ToggleBackgroundGeneration",
+                    "type": "Button",
+                    "id": "72595edd-20e5-4ec5-a5b4-1c87ef2d8365",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "dfa10294-8aec-4fe9-a978-f2d7a28ebff4",
+                    "path": "<Keyboard>/space",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SpaceAction_Tap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bb853795-83e9-4f25-9286-4952726bf411",
+                    "path": "<Keyboard>/space",
+                    "interactions": "MultiTap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SpaceAction_DoubleTap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fb2f5b35-8e9a-4e37-9bf7-6488db7f7836",
+                    "path": "<Keyboard>/space",
+                    "interactions": "Hold(duration=0.2)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SpaceAction_Hold",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f55b5086-f076-4087-b589-f2fc1cf91762",
+                    "path": "<Keyboard>/f5",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Debug_RestartScene",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7f7d9186-0dea-4638-9b87-d3558d65b1b2",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Extra_Pause",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9e7b7c08-31eb-4657-999d-0d3b07b65ba4",
+                    "path": "<Keyboard>/f6",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Debug_ToggleSong",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "07b5971b-8dac-4a2c-91f7-a104b11d7e75",
+                    "path": "<Keyboard>/f7",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Debug_SwitchSong",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f2f037f4-a4c6-4d99-8cde-074aeda26dc3",
+                    "path": "<Keyboard>/f8",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Debug_ToggleBackgroundGeneration",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
